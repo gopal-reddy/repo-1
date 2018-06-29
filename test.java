@@ -3,8 +3,7 @@ class c
 
 
 
-[A[A[A[A[C
-
-[A[A[C[
+
 lkesdffc
+ihrehfgfg
 }
